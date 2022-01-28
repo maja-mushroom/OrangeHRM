@@ -1,0 +1,13 @@
+Add new brands
+        Go to login page    -   Login page is loaded.
+        Click on "Login"   -   The user is successfully logged in.
+        Click on "More" dropdown   -   The "More" dropdown is shown.
+        Click on "Assets" dropdown -   The "Assets" dropdown is shown.
+        Click on "Brands"   -   The "Brands" page is loaded.
+        Click on plus in the upper right corner to "Add Brand"   -   "Add Brand" window successfully loaded.
+        Fill required field "Id"  -   Field "Id" successfully filled.
+        Fill required field "Name"  -   Field "Name" successfully filled.
+        Click on "Save" button      -   New brand status successfully saved.
+        Click on "Users profile dropdown"   -   "Users profile dropdown" is shown.
+        Click on "Logout"   -   The user is successfully logged out.
+        Close browser   -   The browser is closed.

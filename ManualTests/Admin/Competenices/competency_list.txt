@@ -1,0 +1,25 @@
+Add Competency List- parent
+    Open browser to login page  -   login page successfully loaded.
+    Login as "Admin"  -   Admin login successful.
+    Navigate to "Competences"   -   Competences  page successfully loaded.
+    Click on "Add Competency List" button    -   "Add Competency List" window successfully loaded.
+    Fill required field "Name"  -   Field "Name" successfully filled.
+    Fill field "Description"  -   Field "Description" successfully filled.
+    Select "Parent" from the list  -   "Parent" selected successfully.
+    Click on "Save" button. -   Verify the message "Successfully Saved"
+    Verify new added location is in the table   -   Verifications is successful.
+    Run keyword "Logout"   -   The user is successfully logged out.
+    Close browser   -   The browser is closed.
+
+Add Competency List- checkbox
+    Open browser to login page  -   login page successfully loaded.
+    Login as "Admin"  -   Admin login successful.
+    Navigate to "Competences"   -   Competences  page successfully loaded.
+    Click on "Add Competency List" button    -   "Add Competency List" window successfully loaded.
+    Fill required field "Name"  -   Field "Name" successfully filled.
+    Fill field "Description"  -   Field "Description" successfully filled.
+    Select checkbox "Mark As Group"   -   Checkbox "Mark As Group" successfully selected.
+    Click on "Save" button. -   Verify the message "Successfully Saved"
+    Verify new added location is in the table   -   Verifications is successful.
+    Run keyword "Logout"   -   The user is successfully logged out.
+    Close browser   -   The browser is closed.

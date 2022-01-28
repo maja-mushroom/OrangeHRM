@@ -1,0 +1,18 @@
+Zadaća 7
+
+7_1 Help -> Add user
+Napraviti novu suite help.robot a u njoj test "Help - Add user".
+Napraviti keyword file help.robot , a kaywordi bi mogli biti: Open help, Search, ..
+Koraci bi bili:
+Login
+Open help
+Switch to help window
+Search for User
+Check if Add user topic is there
+Close help window  - u prakis bi mogli ovdje zavrsiti test sa "Close all browsers" ali da bi vjezbali prebacivanje sa prozora na prozor uradit cemo jos i slijedeca 3 koraka
+Switch to main window
+Logout
+Close browser
+
+
+7_2 Napraviti "Add Location" test (Organization -> Locations)

@@ -1,0 +1,30 @@
+Precondition
+Login as admin or system administrator
+Click on Admin
+Click on Qualifications
+Click on Education
+
+1   Verify Add Education
+Click on Add button - modal add education is shown
+Enter Level of Education
+Click on Save button - education is save successfully
+
+2   Verify existence of all elements on education page
+Add button is shown
+Tooltip add education is shown when hover mouse over add button
+Table with education is shown
+
+3   Verify existence of all elements on add education modal
+Add education title is shown
+Level of Education is shown
+Input field level of education is shown
+*Required field text is shown
+Button save is shown
+Button cancel is shown
+
+4   Verify Edit Education
+Click on edit icon - modal edit education is shown
+Verify that level of education is field correctly
+Change level of education
+Click on save button
+Verify that changes are saved correctly

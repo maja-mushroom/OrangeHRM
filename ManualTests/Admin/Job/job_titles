@@ -1,0 +1,48 @@
+1 Add New Job Title - mandatory field
+Go to login page    -   Login page is loaded
+Fill "Username" and "Password" fields. Click on "Login" button  -   The user is successfully logged in.
+Click on "Admin" dropdown   -   The "Admin" dropdown is shown.
+Click on "Job" dropdown -   The "Job" dropdown is shown.
+Click on "Job Titles"    -   Label "Job Titles" is shown.
+Click on plus that is shown in the up right corner to "Add Job Titles".
+Fill mandatory field "Name"
+Click on "Save" button. -   Verify the message "Successfully Saved"
+Click on "Users profile dropdown"   -   "Users profile dropdown" is shown.
+Click on "Logout"   -   The user is successfully logged out.
+Close browser   -   The browser is closed.
+
+2 Add New Job Title - all fields
+Go to login page    -   Login page is loaded
+Fill "Username" and "Password" fields. Click on "Login" button  -   The user is successfully logged in.
+Click on "Admin" dropdown   -   The "Admin" dropdown is shown.
+Click on "Job" dropdown -   The "Job" dropdown is shown.
+Click on "Job Titles"    -   Label "Job Titles" is shown.
+Click on plus that is shown in the up right corner to "Add Job Titles".
+Fill All fields "Job Title", "Job Description", "Note" and input "Job Specification".
+Click on "Save" button. -   Verify the message "Successfully Saved"
+Click on "Users profile dropdown"   -   "Users profile dropdown" is shown.
+Click on "Logout"   -   The user is successfully logged out.
+Close browser   -   The browser is closed.
+
+3 Verification of floating message Job Titles
+Go to login page    -   Login page is loaded
+Fill "Username" and "Password" fields. Click on "Login" button  -   The user is successfully logged in.
+Click on "Admin" dropdown   -   The "Admin" dropdown is shown.
+Click on "Job" dropdown -   The "Job " dropdown is shown.
+Click on "Job Titles"    -   Label "Job Titles" is shown.
+Mouse over the plus that is shown in the up right corner and wait until "Add Job Title" is shown. Tooltip "Add Job Title" is shown.
+Click on "Users profile dropdown"   -   "Users profile dropdown" is shown.
+Click on "Logout"   -   The user is successfully logged out.
+Close browser   -   The browser is closed.
+
+4 Verify Add Job Title label
+Go to login page    -   Login page is loaded
+Fill "Username" and "Password" fields. Click on "Login" button  -   The user is successfully logged in.
+Click on "Admin" dropdown   -   The "Admin" dropdown is shown.
+Click on "Job" dropdown -   The "Job" dropdown is shown.
+Click on "Job Titles"    -    Label "Job Titles" is shown.
+Click on plus to "Add Job Title" -   The "Add Job Title" window is shown.
+Verify the label "Add Job Title"
+Click on "Users profile dropdown"   -   "Users profile dropdown" is shown.
+Click on "Logout"   -   The user is successfully logged out.
+Close browser   -   The browser is closed.

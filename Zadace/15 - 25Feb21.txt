@@ -1,0 +1,16 @@
+15_1: U Postmanu napraviti i isprobati preostale requeste za JSON placeholder:
+Updating a resource
+Patching a resource
+Deleting a resource
+Filtering resources
+Listing nested resources
+
+15_1: U robot frameworku napraviti API testove za:
+Getting a resource
+Listing all resources
+u ovim testovima koristeci JSONLibrary provjeriti tacnost podataka za jedan od resoursa.
+
+Korisni linkovi:
+https://jsonplaceholder.typicode.com/guide/
+https://robotframework-requests.netlify.app/doc/requestslibrary
+https://github.com/robotframework-thailand/robotframework-jsonlibrary

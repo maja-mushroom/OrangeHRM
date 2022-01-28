@@ -1,0 +1,23 @@
+U suštini ovo je bio i dio zadaće 15 (posljednje dvije tačke)
+16_1: U robot frameworku napraviti API test za Filtering resources.
+Obratite pažnju da ovdje imate i korištenje parametara u requestu (ranije ste imali slučaj da dajete body requestu).
+
+
+16_2: U robot frameworku napraviti API test za jednog od korisnika provjeriti njegove komentare, slike itd:
+The available nested routes are:
+/posts/1/comments
+/albums/1/photos
+/users/1/albums
+/users/1/todos
+/users/1/posts
+
+
+Korisno:
+https://jsonplaceholder.typicode.com/guide/
+https://robotframework-requests.netlify.app/doc/requestslibrary
+https://github.com/robotframework-thailand/robotframework-jsonlibrary
+https://robotframework.org/robotframework/2.1.2/libraries/Collections.html
+Kod dva keworda za provjeru direktorija koji je postavljen u #general na slacku.
+
+
+PS: 8. marta nema predavanja.

@@ -1,0 +1,28 @@
+Add Asset - all fields
+    Open browser to login page - Login page successfully loaded
+    Login as "Admin" - Admin successfully logs in
+    Click on "Assets" in "More" menu - User is navigated to Assets page
+    Click on "View Assets" - User is navigated to View Assets page
+    Click on "Add Button" - User is presented with Asset Details form to create new Asset
+    Input random number in "Assets ID" field - Asset ID field is filled with a value
+    Input random string in "Serial Number" field - Serial Number field is filled with a value
+    Type a brand in the "Brand" field and select it from suggested options - User is able to select a Brand
+    Type a vendor in the "Vendor" field and select it from suggested options - User is able to select a Vendor
+    Input random string in "Model" field - User entered model type successfully
+    Type a category in the "Category" field and select it from suggested options - User is able to select a Category
+    Click on "Location" dropdown and select a location from the list - User is able to select a location
+    Click on "Acquired" field and select a date - User selects a date in calendar form
+    Click on "Warranty Starts" field and select a date - User selects a date in calendar form
+    Click on "Warranty Ends" field and select a date that is later from "Warranty Starts"- User selects a date in calendar form
+    Input random text in "Description" filed - User enters text in Description field
+    Click on Save button - Asset is saved
+    Click on Edit button - Fields in add asset modal can be edited and option to change status and add attachments are present
+    Click on Status dropdown and select an option - User selects a status from dropdown
+    Click on Image area in the form - User is presented with Add Picture modal
+    Click on "Select picture" button - User is presented with browse modal to select a picture
+    Click on "Open" within browse modal - User chooses a picture from a folder and file name is visible in Add Picture modal
+    Click on "Save" - Success message and Image can be seen
+    Click on Attachment icon in the form - User is presented with add file modal
+    Click on "Select" button to choose a file - Click on Save and attachment is successfully added
+    Click on View Assets menu option - Asset list is visible
+    Click on filter icon - Filter modal is displayed

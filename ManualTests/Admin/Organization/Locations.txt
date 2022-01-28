@@ -1,0 +1,20 @@
+Add Location - all fields
+    Open browser to login page  -   login page successfully loaded.
+    Login as "Admin"  -   Admin login successful.
+    Navigate to "Locations"   -   Location page successfully loaded.
+    Click on "Add Location" button    -   "Add Location" window successfully loaded.
+    Fill required field "Name"  -   Field "Name" successfully filled.
+    Select "Country" from the list  -   "Country" selected successfully.
+    Select "Time zone" from the list  -   "Time zone" selected successfully.
+    Input text field "State/Province"   -   "State/Province" field successfully entered.
+    Input text field "City"   -   "City" field successfully entered.
+    Input text field "ZIP/Postal Code"   -   "ZIP/Postal Code" field successfully entered.
+    Input text field "Phone"   -   "Phone" field successfully entered.
+    Input text field "Fax"   -   "Fax" field successfully entered.
+    Select checkbox "EEO Enabled"   -   Checkbox "EEO Enabled" successfully selected.
+    Input text field "Address"   -   "Address" field successfully entered.
+    Input text field "Notes"   -   "Notes" field successfully entered.
+    Click on "Save" button. -   Verify the message "Successfully Saved"
+    Verify new added location is in the table   -   Verifications is successful.
+    Run keyword "Logout"   -   The user is successfully logged out.
+    Close browser   -   The browser is closed.

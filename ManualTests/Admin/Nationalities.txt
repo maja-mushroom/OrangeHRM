@@ -1,0 +1,46 @@
+1.Add New Nationality
+Login as admin          -       Login is successful.
+Click on Admin          -       Opens the dropdown tab.
+Click on Nationalities  -       Nationalities page loaded.
+Click on green button on up right corner    -       Add Nationality opens.
+Input new Nationality in name field         -       New nationality is written.
+Click on save button                        -       New nationality is successfully saved
+Click on name of user                       -       Dropdown is shown.
+Make Logout                                 -       Logout is Successful.
+
+2.Edit currently nations.
+Login as admin              -       Login is successful.
+Click on Admin              -       Opens the dropdown tab.
+Click on Nationalities      -       Nationalities page loaded.
+Click on the edit button    -       Edit Nationality drodpdown is shown.
+Delete the currently nation -       Currently nation is deleted.
+Write the new one.          -       New nation is written.
+Click on the save button    -       Changes are successfully saved.
+Click on name of user       -       Dropdown is shown.
+Make Logout                 -       Logout is successful.
+
+3.Delete all selected nations
+Login as admin                  -       Login is successful.
+Click on Admin                  -       Opens the dropdown tab.
+Click on Nationalities          -       Nationalities page loaded.
+Click on select all button      -       Select All dropdown is shown.
+Click on select all dropdown    -       All nations are selected.
+Click on select all button      -       Select All dropdown is shown.
+Click on delete selected button -       All nations are deleted.
+Click on name of user           -       Dropdown is shown.
+Make Logout                     -       Logout is successful.
+
+4. Add and Edit New Nationality
+  Go to login page    -   Login page is loaded
+  Fill "Username" and "Password" fields. Click on "Login" button  -   The user is successfully logged in.
+  Click on "Admin" dropdown   -   The "Admin" dropdown is shown.
+  Click on "Nationalities"    -   Label "Nationalities" is shown.
+  Click on plus that is shown in the up right corner to "Add Nationality".
+  Fill mandatory field "Name"
+  Click on "Save" button. - The new Nationality was added.
+  Click on the "Edit" button in the right corner on the recently new added "Nationality"
+  Change the mandatory field "Name"
+  Click on "Save" button. -   Verify the message "Successfully Updated"
+  Click on "Users profile dropdown"   -   "Users profile dropdown" is shown.
+  Click on "Logout"   -   The user is successfully logged out.
+  Close browser   -   The browser is closed.

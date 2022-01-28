@@ -1,0 +1,53 @@
+1    Verify the User Roles messages
+Go to login page    -   Login page is loaded
+Fill "Username" and "Password" fields. Click on "Login" button  -   The user is successfully logged in. "User roles" page is loaded.
+Click on "Admin" dropdown   -   The "Admin" dropdown is shown.
+Click on "User Management" dropdown -   The "User Management" dropdown is shown.
+Click on "User Roles"    -   The "user_roles" page is loaded.   Label "User Roles" is shown.
+Go on plus that is shown in the up right corner and wait until "Add User Role" is shown. The "Add User Role" is shown.
+Click on "Users profile dropdown"   -   "Users profile dropdown" is shown.
+Click on "Logout"   -   The user is successfully logged out.
+Close browser   -   The browser is closed.
+
+2*   Add User Role
+Go to login page    -   Login page is loaded
+Fill "Username" and "Password" fields. Click on "Login" button  -   The user is successfully logged in. "User roles" page is loaded.
+Click on "Admin" dropdown   -   The "Admin" dropdown is shown.
+Click on "User Management" dropdown -   The "User Management" dropdown is shown.
+Click on "User Roles"    -   The "user_roles" page is loaded.   Label "User Roles" is shown.
+Click on plus to "Add User Role" -   The "Add User Role" window is shown.
+Fill the required field "User Role Name"    -   The required fields are filet.
+Click on "Save" button  -   The changes were saved.
+Click on "Users profile dropdown"   -   "Users profile dropdown" is shown.
+Click on "Logout"   -   The user is successfully logged out.
+Close browser   -   The browser is closed.
+
+3*   Verify the message Successfully Saved
+Go to login page    -   Login page is loaded
+Fill "Username" and "Password" fields. Click on "Login" button  -   The user is successfully logged in. "User roles" page is loaded.
+Click on "Admin" dropdown   -   The "Admin" dropdown is shown.
+Click on "User Management" dropdown -   The "User Management" dropdown is shown.
+Click on "User Roles"    -   The "user_roles" page is loaded.   Label "User Roles" is shown.
+Click on plus to "Add User Role" -   The "Add User Role" window is shown.
+Fill the required field "User Role Name"    -   The required fields are filet.
+Click on "Save" button  -   The changes were saved.
+The message "Successfully Saved" is shown   -   Verify the message.
+Click on "Users profile dropdown"   -   "Users profile dropdown" is shown.
+Click on "Logout"   -   The user is successfully logged out.
+Close browser   -   The browser is closed.
+
+4   Verify the required fields adding a user role
+Go to login page    -   Login page is loaded
+Fill "Username" and "Password" fields. Click on "Login" button  -   The user is successfully logged in. "User roles" page is loaded.
+Click on "Admin" dropdown   -   The "Admin" dropdown is shown.
+Click on "User Management" dropdown -   The "User Management" dropdown is shown.
+Click on "User Roles"    -   The "user_roles" page is loaded.   Label "User Roles" is shown.
+Click on plus to "Add User Role" -   The "Add User Role" window is shown.
+Click on "Save" button  -   The required messages are shown.
+Verify the required message.
+Click on "Cancel" button    - The "user_roles" page is loaded.
+Click on "Users profile dropdown"   -   "Users profile dropdown" is shown.
+Click on "Logout"   -   The user is successfully logged out.
+Close browser   -   The browser is closed.
+
+

@@ -1,0 +1,30 @@
+Precondition
+Login as admin or system administrator
+Click on Admin
+Click on Qualifications
+Click on Licenses
+
+1   Verify Add License
+Click on Add button - modal add license is shown
+Enter Name
+Click on Save button - license is save successfully
+
+2   Verify existence of all elements on license page
+Add button is shown
+Tooltip add skill is shown when hover mouse over add button
+Table with licenses is shown
+
+3   Verify existence of all elements on add license modal
+Add License title is shown
+Label Name* is shown
+Input field name is shown
+*Required field text is shown
+Button save is shown
+Button cancel is shown
+
+4   Verify Edit License
+Click on edit icon - modal edit license is shown
+Verify that name is field correctly
+Change name
+Click on save button
+Verify that changes are saved correctly

@@ -1,0 +1,39 @@
+5_6 Manual test
+
+Precondition
+Login as admin or system administrator
+Click on Admin
+Click on Job
+Click on Work Shifts
+
+1   Verify Add Work Shifts
+Click on add button - modal add work shift is shown
+Enter work shift
+Enter from
+Enter to
+Click on Save button - add work shift is save successfully
+
+2   Verify existence of all elements on work shift page
+Add button is shown
+Tooltip add work shift is shown when hover mouse over add button
+Table with work shift is shown
+
+3   Verify existence of all elements on add work shift modal
+Add work shift title is shown
+Work shift is shown
+Input field work shift is shown
+Input from is shown
+Input to is shown
+Hours per day is shown
+*Required field text is shown
+Button save is shown
+Button cancel is shown
+
+4   Verify Edit Work Shift
+Click on edit icon - modal edit work shift is shown
+Verify that work shift is filled correctly
+Change work shift
+Change from
+Change to
+Click on save button
+Verify that changes are saved correctly

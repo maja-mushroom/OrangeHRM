@@ -1,0 +1,7 @@
+- Napraviti folder Qualifications i u keywords i u tests
+- Napraviti keyword i test fajl za svaku stranicu pod Qualifications: Skills .. Membership
+        - keyword i test samo za dodavanje: npr Add Skill: - opcionalne parametre staviti da imaju defaultnu vrijednost (samo =)
+
+
+Opcionalno:
+Napraviti u base.robot zajednicke keyworde za sve stranice: Modal Cancel, Modal Save, Click Add+ buttongit

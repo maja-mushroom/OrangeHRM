@@ -1,0 +1,30 @@
+Precondition
+Login as admin or system administrator
+Click on Admin
+Click on Qualifications
+Click on Languages
+
+1   Verify Add Language
+Click on Add button - modal add language is shown
+Enter Name
+Click on Save button -  language is save successfully
+
+2   Verify existence of all elements on skills page
+Add button is shown
+Tooltip add language is shown when hover mouse over add button
+Table with languages is shown
+
+3   Verify existence of all elements on add language modal
+Add Language title is shown
+Label Name* is shown
+Input field name is shown
+*Required field text is shown
+Button save is shown
+Button cancel is shown
+
+4   Verify edit language
+Click on edit icon - modal edit language is shown
+Verify that name is field correctly
+Change name
+Click on save button
+Verify that changes are saved correctly

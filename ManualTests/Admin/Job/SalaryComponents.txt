@@ -1,0 +1,60 @@
+*Correct input 1*
+1. Open browser, "OrangeHRM" page and login as Administrator - User is successfully logged in.
+2. Click "Admin" menu - List of components is shows as drop down menu.
+3. Click "Salary Components" in "Job" in main menu - "Salary Components" successfully loaded.
+4. Click "Add Salary Component", fill required fields and click "Save" - New Salary Component added with message "Successfully Saved".
+5. Logout - User is successfully logged out.
+
+*Correct input 2*
+
+1. Open browser, "OrangeHRM" page and login as Administrator - User is successfully logged in.
+2. Click "Admin" menu - List of components is shows as drop down menu.
+3. Click "Salary Components" in "Job" in main menu - "Salary Components" successfully loaded.
+4. Click "Add Salary Component", fill required field with text with spaces - New Salary Component added with message "Successfully Saved".
+5. Logout - User is successfully logged out.
+
+*Correct input 3*
+
+1. Open browser, "OrangeHRM" page and login as Administrator - User is successfully logged in.
+2. Click "Admin" menu - List of components is shows as drop down menu.
+3. Click "Salary Components" in "Job" in main menu - "Salary Components" successfully loaded.
+4. Click "Add Salary Component", fill required field with the same name that exist - New Salary Component added with message "Successfully Saved".
+5. Logout - User is successfully logged out.
+
+*Correct input 4
+
+1. Open browser, "OrangeHRM" page and login as Administrator - User is successfully logged in.
+2. Click "Admin" menu - List of components is shows as drop down menu.
+3. Click "Salary Components" in "Job" in main menu - "Salary Components" successfully loaded.
+4. Click "Add Salary Component", fill required fields and check different checkboxes, click "Save" - New Salary Component added with message "Successfully Saved".
+5. Logout - User is successfully logged out.
+
+*Incorrect input 1*
+
+1. Open browser, "OrangeHRM" page and login as Administrator - User is successfully logged in.
+2. Click "Admin" menu - List of components is shows as drop down menu.
+3. Click "Salary Components" in "Job" in main menu - "Salary Components" successfully loaded.
+4. Click "Add Salary Component" with empty field and then click "Save" - Message "Required" is shown under field "Component Name" and "Type".
+5. Logout - User is successfully logged out.
+
+*Incorrect input 2*
+
+1. Open browser, "OrangeHRM" page and login as Administrator - User is successfully logged in.
+2. Click "Admin" menu - List of components is shows as drop down menu.
+3. Click "Salary Components" in "Job" in main menu - "Salary Components" successfully loaded.
+4. Click "Add Salary Component", enter name and select type and click "Cancel" - Changes are not saved.
+5. Logout - User is successfully logged out.
+1. Open browser, "OrangeHRM" page and login as Administrator - User is successfully logged in.
+2. Click "Admin" menu - List of components is shows as drop down menu.
+3. Click "Salary Components" in "Job" in main menu - "Salary Components" successfully loaded.
+4. Click on "Help" button - Help window is opened with advices how to add new Salary Component.
+5. Click "..." and click "Select All" - Selects all from the list of Salary Components.
+6. Click "..." and click "Deselect All" - Deselects all from the list of Salary Components.
+7. Click "...", select few for list and click "Delete" - Deletes selected from the list of Salary Components.
+8.Click "Cost to Company?" - If list was sorted by "No", it will sort it by "Yes" and vice versa.
+9.Click "Part of Total Payable?" - If list was sorted by "No", it will sort it by "Yes" and vice versa.
+10.Click "Type" - If list was sorted by "Earning", it will sort list by "Deduction" and vice versa.
+11.Click "Edit" user - "Edit" window is opened.
+12.Edit input of few fields and click "Save" - Message "Successfully Updated" is shown.
+13.Click "Cancel" in "Edit" window - Cancels a "Edit" window.
+14.Logout - User is successfully logged out.

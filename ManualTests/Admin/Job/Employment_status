@@ -1,0 +1,12 @@
+Add Job Grades
+        Go to login page    -   Login page is loaded.
+        Click on "Login"   -   The user is successfully logged in.
+        Click on "Admin" dropdown   -   The "Admin" dropdown is shown.
+        Click on "Job" dropdown -   The "Job" dropdown is shown.
+        Click on "Employment Status"   -   The "Employment Status" page is loaded.
+        Click on plus in the upper right corner to "Add Employment Status"   -   "Add Employment Status" window successfully loaded.
+        Fill required field "Name"  -   Field "Name" successfully filled.
+        Click on "Save" button      -   New employment status successfully saved.
+        Click on "Users profile dropdown"   -   "Users profile dropdown" is shown.
+        Click on "Logout"   -   The user is successfully logged out.
+        Close browser   -   The browser is closed.

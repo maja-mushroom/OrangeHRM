@@ -1,0 +1,4 @@
+14_1 Filter Vendor - napraviti keyword i koristiti ga prije keyworda za brisanje: filter Vendor ${id} ${name} ${reset}
+14_2 Delete Vendor - prosiriti Add Vendor test sa TearDown u kome ce se brisati kreirani vendor
+14_3 Add Expense Type - Expense -> Expense type
+14_4 Napraviti keyword Delete Expense Type i dodati u tear down or add Expense Type

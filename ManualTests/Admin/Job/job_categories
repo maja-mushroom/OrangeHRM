@@ -1,0 +1,52 @@
+1 Add New Job Category - mandatory field
+Go to login page    -   Login page is loaded
+Fill "Username" and "Password" fields. Click on "Login" button  -   The user is successfully logged in.
+Click on "Admin" dropdown   -   The "Admin" dropdown is shown.
+Click on "Job" dropdown -   The "Job" dropdown is shown.
+Click on "Job Categories"    -   Label "Job Categories" is shown.
+Click on plus that is shown in the up right corner to "Add Job Category".
+Fill mandatory field "Name"
+Click on "Save" button. -   Verify the message "Successfully Saved"
+Click on "Users profile dropdown"   -   "Users profile dropdown" is shown.
+Click on "Logout"   -   The user is successfully logged out.
+Close browser   -   The browser is closed.
+
+2 Verification of floating message Job Category
+Go to login page    -   Login page is loaded
+Fill "Username" and "Password" fields. Click on "Login" button  -   The user is successfully logged in.
+Click on "Admin" dropdown   -   The "Admin" dropdown is shown.
+Click on "Job" dropdown -   The "Job" dropdown is shown.
+Click on "Job Categories"    -   Label "Job Categories" is shown.
+Mouse over the plus that is shown in the up right corner and wait until "Add Job Category" is shown. Tooltip "Add Job Category" is shown.
+Click on "Users profile dropdown"   -   "Users profile dropdown" is shown.
+Click on "Logout"   -   The user is successfully logged out.
+Close browser   -   The browser is closed.
+
+3 Verify Add Job Category label
+Go to login page    -   Login page is loaded
+Fill "Username" and "Password" fields. Click on "Login" button  -   The user is successfully logged in.
+Click on "Admin" dropdown   -   The "Admin" dropdown is shown.
+Click on "Job" dropdown -   The "Job" dropdown is shown.
+Click on "Job Categories"    -    Label "Job Categories" is shown.
+Click on plus to "Add Job Category" -   The "Add Job Category" window is shown.
+Verify the label "Add Job Category"
+Click on "Users profile dropdown"   -   "Users profile dropdown" is shown.
+Click on "Logout"   -   The user is successfully logged out.
+Close browser   -   The browser is closed.
+
+4 Add and Edit New Job Category - mandatory field
+Go to login page    -   Login page is loaded
+Fill "Username" and "Password" fields. Click on "Login" button  -   The user is successfully logged in.
+Click on "Admin" dropdown   -   The "Admin" dropdown is shown.
+Click on "Job" dropdown -   The "Job" dropdown is shown.
+Click on "Job Categories"    -   Label "Job Categories" is shown.
+Click on plus that is shown in the up right corner to "Add Job Category".
+Fill mandatory field "Name"
+Click on "Save" button. - The new Job category was added.
+Click on the "Edit" button in the right corner on the recently new added "Job Category"
+Change the mandatory field "Name"
+Click on "Save" button. -   Verify the message "Successfully Updated"
+Click on "Users profile dropdown"   -   "Users profile dropdown" is shown.
+Click on "Logout"   -   The user is successfully logged out.
+Close browser   -   The browser is closed.
+

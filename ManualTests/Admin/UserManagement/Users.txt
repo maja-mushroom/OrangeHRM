@@ -1,0 +1,124 @@
+1   Add new user from existing employee
+Go to login page    -   Login page is loaded
+Fill "Username" and "Password" fields. Click on "Login" button  -   The user is successfully logged in. "User roles" page is loaded.
+Click on "Admin" dropdown   -   The "Admin" dropdown is shown.
+Click on "User Management" dropdown -   The "User Management" dropdown is shown.
+Click on "Users"    -   The "systemUsers" page is loaded. Label "Users" is shown.
+Click on plus that is shown in the up right corner to "Add User".
+Fill required fields "Employee Name", "Username", "Password" and "Confirm password"
+Click on "Save" button.
+Click on "Users profile dropdown"   -   "Users profile dropdown" is shown.
+Click on "Logout"   -   The user is successfully logged out.
+Close browser   -   The browser is closed.
+
+3*   Search by username not existing user and verifying the message
+Go to login page    -   Login page is loaded
+Fill "Username" and "Password" fields. Click on "Login" button  -   The user is successfully logged in. "User roles" page is loaded.
+Click on "Admin" dropdown   -   The "Admin" dropdown is shown.
+Click on "User Management" dropdown -   The "User Management" dropdown is shown.
+Click on "Users"    -   The "systemUsers" page is loaded. Label "Users" is shown.
+Click on "Filter" icon  that is shown in the up right corner to Filter the user.
+Fill "Username" field on "Filter Users" label that is loaded -  "Username" field is unique.
+Click on "Save" button. -   The "systemUsers" page is loaded.
+The message "No Records Found" is shown.
+Click on "Users profile dropdown"   -   "Users profile dropdown" is shown.
+Click on "Logout"   -   The user is successfully logged out.
+Close browser   -   The browser is closed.
+
+4*   Edit user by filter
+Go to login page    -   Login page is loaded
+Fill "Username" and "Password" fields. Click on "Login" button  -   The user is successfully logged in. "User roles" page is loaded.
+Click on "Admin" dropdown   -   The "Admin" dropdown is shown.
+Click on "User Management" dropdown -   The "User Management" dropdown is shown.
+Click on "Users"    -   The "systemUsers" page is loaded. Label "Users" is shown.
+Click on "Filter" icon  that is shown in the up right corner to Filter the user.
+Fill "Username" field. -  "Username" field is unique.
+The "Filter Users" label is shown. -
+Fill the require field "Username" - Searched "Username" is shown in "Filter Users" label.
+Click on "Search" icon button -   The searched "Username" is shown in "systemUsers" page.
+Click on "Edit" icon.   -   The "Edit User" label is shown.
+Fill the fields tha you want to change and click the button "Save". -   The "Successfully Saved" message is shown.
+The "Modify Region" label is shown with required field. -   Click on save button to save the changes.
+The "Successfully Saved" message is shown again.
+Click on "Users profile dropdown"   -   "Users profile dropdown" is shown.
+Click on "Logout"   -   The user is successfully logged out.
+Close browser   -   The browser is closed.
+
+5   Verify the Filter message
+Go to login page    -   Login page is loaded
+Fill "Username" and "Password" fields. Click on "Login" button  -   The user is successfully logged in. "User roles" page is loaded.
+Click on "Admin" dropdown   -   The "Admin" dropdown is shown.
+Click on "User Management" dropdown -   The "User Management" dropdown is shown.
+Click on "Users"    -   The "systemUsers" page is loaded. Label "Users" is shown.
+Go on Filter  icon that is shown in the up right corner and wait until "Filter" message is shown. The "Filter" message is shown.
+Verify the message "Filter".
+Click on "Users profile dropdown"   -   "Users profile dropdown" is shown.
+Click on "Logout"   -   The user is successfully logged out.
+Close browser   -   The browser is closed.
+
+5   Verify the Add User messages
+Go to login page    -   Login page is loaded
+Fill "Username" and "Password" fields. Click on "Login" button  -   The user is successfully logged in. "User roles" page is loaded.
+Click on "Admin" dropdown   -   The "Admin" dropdown is shown.
+Click on "User Management" dropdown -   The "User Management" dropdown is shown.
+Click on "Users"    -   The "systemUsers" page is loaded. Label "Users" is shown.
+Go on plus that is shown in the up right corner and wait until "Add User" is shown. The "Add User" is shown.
+Click on "Users profile dropdown"   -   "Users profile dropdown" is shown.
+Click on "Logout"   -   The user is successfully logged out.
+Close browser   -   The browser is closed.
+
+6   Verify the required fields adding a user
+Go to login page    -   Login page is loaded
+Fill "Username" and "Password" fields. Click on "Login" button  -   The user is successfully logged in. "User roles" page is loaded.
+Click on "Admin" dropdown   -   The "Admin" dropdown is shown.
+Click on "User Management" dropdown -   The "User Management" dropdown is shown.
+Click on "Users"    -   The "systemUsers" page is loaded. Label "Users" is shown.
+Click on plus to "Add User" -   The "Add User" window is shown.
+Click on "Save" button  -   The required messages are shown.
+Verify the required messages.
+Click on "Cancel" button    - The "systemUsers" page is loaded.
+Click on "Users profile dropdown"   -   "Users profile dropdown" is shown.
+Click on "Logout"   -   The user is successfully logged out.
+Close browser   -   The browser is closed.
+
+7   Verify add user label
+Go to login page    -   Login page is loaded
+Fill "Username" and "Password" fields. Click on "Login" button  -   The user is successfully logged in. "User roles" page is loaded.
+Click on "Admin" dropdown   -   The "Admin" dropdown is shown.
+Click on "User Management" dropdown -   The "User Management" dropdown is shown.
+Click on "Users"    -   The "systemUsers" page is loaded. Label "Users" is shown.
+Click on plus to "Add User" -   The "Add User" window is shown.
+Click on "Save" button  -   The required messages are shown.
+Click on "Cancel" button    - The "systemUsers" page is loaded.
+Click on "Users profile dropdown"   -   "Users profile dropdown" is shown.
+Click on "Logout"   -   The user is successfully logged out.
+Close browser   -   The browser is closed.
+
+8 Add user with all fields
+- PREREQUISITE: Login in with admin credentials
+- PREREQUISITE: Navigate to Users
+Click on green circle "Add User" - The "Add User" window is shown
+Click on "Employee Name" field - Choose name from "Employee Name" drown
+Fill "Username" field - "Username" is filled in
+Click on "ESS Role" field - Dropdown is open. Choose role from "ESS Role" dropdown
+Click on "Supervisor Role" field - Dropdown is open. Choose role from "Supervisor Role" dropdown
+Click on "Supervisor Role" field - Dropdown is open. Choose role from "Supervisor Role" dropdown
+Click on "Status" field - Dropdown is open. Choose option from "Status" dropdown
+Fill "Password" and "Confirm Password" fields with same value - Fields are filled in
+Click "Save" button - Window "Add User" is closed.
+Toast message appears - Message "Successfully Saved" is loaded
+New user is visible as first in the table
+
+9 Edit user's username
+- PREREQUISITE: Log in with admin credentials
+- PREREQUISITE: Navigate to Users
+- PREREQUISITE: Add user with all fields
+Click first "Edit icon" - "Edit user" modal window opens
+Generate new username string
+Fill new username in "Username" field - New username is filled in
+Toast message appears - Message "Successfully Updated" is loaded
+Click "Save button" - Window "Edit user" is closed. Changes are visible in the table
+
+
+
+

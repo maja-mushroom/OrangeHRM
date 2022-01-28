@@ -1,0 +1,2 @@
+- Pročitati poglavlje 4 ISTQB sylabus-a
+- napraviti keyworde i TC za "Add Cost Center" (Admin->Organization->Cost Centers)

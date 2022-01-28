@@ -1,0 +1,12 @@
+Add Cost Center - all fields
+Open browser to login page  -   login page successfully loaded.
+Login as "Admin"  -   Admin login successful.
+Navigate to "Cost Centers"   -   Cost centers page successfully loaded.
+Click on "Add Cost Center" button    -   "Add Cost Center" window successfully loaded.
+Fill required field "Cost Center ID"  -   Field "Cost Center ID" successfully filled.
+Input text field "Name"   -   "Name" field successfully entered.
+Input text field "Description"   -   "Description" field successfully entered.
+Click on "Save" button. -   Verify the message "Successfully Saved"
+Verify new added cost center is in the table   -   Verifications is successful.
+Run keyword "Logout"   -   The user is successfully logged out.
+Close browser   -   The browser is closed.

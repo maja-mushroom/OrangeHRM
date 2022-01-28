@@ -1,0 +1,1 @@
+Add Compentency (Admin -> Compentencies -> Compentency list)

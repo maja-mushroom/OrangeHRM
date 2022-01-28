@@ -1,0 +1,92 @@
+
+1   Login as Administrator
+Go to login page    -   Login page is loaded
+Click on "Login as a Different Role" and choose "Administrator" from the list   -   The user is successfully logged in. "Dashboard" page is loaded.
+
+2   Login as System Administrator
+Go to login page    -   Login page is loaded
+Click on "Login as a Different Role" and choose "System Administrator" from the list   -   The user is successfully logged in. "Dashboard" page is loaded.
+
+3   Login as ESS User
+Go to login page    -   Login page is loaded
+Click on "Login as a Different Role" and choose "ESS User" from the list   -   The user is successfully logged in. "Dashboard" page is loaded.
+
+4   Login as 1st Level Supervisor
+Go to login page    -   Login page is loaded
+Click on "Login as a Different Role" and choose "1st Level Supervisor" from the list   -   The user is successfully logged in. "Dashboard" page is loaded.
+
+5.  Login with invalid credentials
+Enter unexisting credentials
+Click on login button - Error message "Invalid Credentials" is shown.
+
+6   Login with with correct username invalid password
+Enter username "Admin"
+Enter wrong password
+Click on login button - Error message "Invalid Credentials" is shown.
+
+7   Login with with invalid username correct password
+Enter unexisting username
+Enter password "admin123"
+Click on login button - Error message "Invalid Credentials" is shown.
+
+8   Login when input field is empty
+Delete predefined username
+Delete predefined password
+Click on login button - Message "Username cannot be empty" is shown.
+
+9   Enter long text for username
+Enter long text for username
+Click on login button - Username is cleared, nothing happend.
+
+10  Enter long text for password
+Enter long text for password
+Click on login button - Error message "Invalid Credentials" is shown.
+
+11  Enter username or password with space
+Enter username "test test"
+Enter password "123 123"
+Click on login button - Error message "Invalid Credentials" is shown.
+
+12  Verify Facebook link
+Click on facebook icon - link https://www.facebook.com/OrangeHRM is open.
+
+13  Verify Twitter link
+Click on twitter icon - link https://twitter.com/orangehrm is open.
+
+14  Verify Google link
+Click on google icon - link https://plus.google.com/+OrangeHRM/ is open.
+
+15  Verify LinkedIn link
+Click on linkedin icon - link https://www.linkedin.com/company/orangehrm/ is open.
+
+16  Verify You Tube link
+Click on you tube icon - link https://www.youtube.com/user/orangehrm is open.
+
+17  Verify link OrangeHRM, Inc.
+Click on OrangeHRM, Inc. link - link https://www.orangehrm.com/ is open.
+
+18  Verify existence placeholders for input fields
+Delete predefined username - Username placeholders is shown.
+Delete predefined password - Password placeholders is shown.
+
+19  Verify existence of logos
+Logo icons are shown.
+
+20  Verify existence of all elements on the page
+Login title is shown.
+OrangeHRM Demo is shown.
+Username input field is shown.
+Password input is shown.
+Login button is shown.
+Login as a Different Role is shown.
+Logo icons are shown.
+Facebook icon is shown.
+Twitter icon is shown.
+Google icon is shown.
+LinkedIn icon is shown.
+You Tube icon is shown.
+Copyright is shown.
+
+
+
+

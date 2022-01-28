@@ -1,0 +1,6 @@
+8   Admin->Announcements->News->AddNews
+Ne treba praviti veliki keyword Add News koji bi imao veliki broj parametara, nego napraviti za svaki field keyword npr:
+News - Input Topic
+News - Input Description
+News - set Request Acknowledgment (Argument je tipa boolean, tj. True ili False) pa unitra imamo if True...
+itd.

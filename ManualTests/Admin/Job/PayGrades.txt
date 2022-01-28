@@ -1,0 +1,31 @@
+Precondition
+Login as admin or system administrator
+Click on Admin
+Click on Job
+Click on Pay Grades
+
+1   Verify Add Pay Grade
+Click on Add button - modal add Pay Grade is shown
+Enter Name
+Click on Save button - pay grade is save successfully
+
+2   Verify existence of all elements on Pay Grades page
+Add button is shown
+Tooltip add pay grade is shown when hover mouse over add button
+Table with pay grades is shown
+
+3   Verify existence of all elements on add Pay Grade modal
+Add pay grade title is shown
+Name is shown
+Input field name is shown
+*Required field text is shown
+Button save is shown
+Button cancel is shown
+
+4   Verify Edit Pay Grade
+Click on edit icon - modal edit pay grade is shown
+Verify that name is filled correctly
+Change name of pay grade
+Input "Currency", "Minimum Salary" and "Maximum Salary"
+Click on save button
+Verify that changes are saved correctly

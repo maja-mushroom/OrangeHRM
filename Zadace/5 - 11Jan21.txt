@@ -1,0 +1,6 @@
+5_1 Add Nationality (TA, MAN)
+5_2 Add Salary Components (TA, MAN)
+5_3 Add Pay grades (TA, MAN)
+5_4 Add Employment status (TA, MAN)
+5_5 Add Job Categories (TA, MAN)
+5_6 Add Work Shifts (TA, MAN)

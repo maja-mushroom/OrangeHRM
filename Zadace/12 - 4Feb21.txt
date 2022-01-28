@@ -1,0 +1,2 @@
+12_1    Add Brand (More -> Brands)
+12_2    Add Vendor (More -> Vendors)

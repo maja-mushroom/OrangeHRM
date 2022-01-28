@@ -1,0 +1,40 @@
+Precondition
+Login as admin or system administrator
+Click on Admin
+Click on Qualifications
+Click on Skills
+
+1   Verify Add Skills
+Click on Add button - modal add skill is shown
+Enter Name
+Enter Description
+Click on Save button - skills is save successfully
+
+2   Verify existence of all elements on skills page
+Add button is shown
+Tooltip add skill is shown when hover mouse over add button
+Table with skills is shown
+
+3   Verify existence of all elements on add skill modal
+Add Skill title is shown
+Label Name* is shown
+Input field name is shown
+Label Description is shown
+Input field description is shown
+*Required field text is shown
+Button save is shown
+Button cancel is shown
+
+4   Verify Edit Skill
+Precondition "Add Skill"
+Click on edit icon - modal edit skill is shown
+Verify that name is field correctly
+Verify that description is field correctly
+Change name
+Change description
+Click on save button
+Verify that changes are Successfully Updated.
+
+
+
+

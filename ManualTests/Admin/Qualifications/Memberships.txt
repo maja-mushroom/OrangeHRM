@@ -1,0 +1,30 @@
+Precondition
+Login as admin or system administrator
+Click on Admin
+Click on Qualifications
+Click on Memberships
+
+1   Verify Add Membership
+Click on Add button - modal add membership is shown
+Enter Name
+Click on Save button - membership is save successfully
+
+2   Verify existence of all elements on membership page
+Add button is shown
+Tooltip add membership is shown when hover mouse over add button
+Table with membership is shown
+
+3   Verify existence of all elements on add membership modal
+Add Membership title is shown
+Label Name* is shown
+Input field name is shown
+*Required field text is shown
+Button save is shown
+Button cancel is shown
+
+4   Verify edit membership
+Click on edit icon - modal edit membership is shown
+Verify that name is field correctly
+Change name
+Click on save button
+Verify that changes are saved correctly
